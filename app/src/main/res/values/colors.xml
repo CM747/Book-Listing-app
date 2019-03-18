@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#AD720A</color>
+    <color name="colorPrimaryDark">#986407</color>
+    <color name="colorAccent">#AD720A</color>
+
+
+    <color name="background">#AD720A</color>
+
+    <color name="buycolor">#2B88F5</color>
+</resources>
